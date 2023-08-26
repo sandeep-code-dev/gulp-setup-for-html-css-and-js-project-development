@@ -1,10 +1,16 @@
-# gulp-setup-for-html-css-and-js-project-devleopment
+# gulp-setup-for-html-css-and-js-project-development
 
-Clone this Repo and run inside the gulp-setup-for-html-css-and-js-project-devleopment folder.
+Clone this Repo.
+
+`git clone https://github.com/sandeep-code-dev/gulp-setup-for-html-css-and-js-project-devleopment.git`
+
+`cd gulp-setup-for-html-css-and-js-project-devleopment`
+
+Then install the required node modules by running the following comand.
 
 `npm install`
 
-It will install all the required node modules and then on the terminal run
+It will install all the required node modules and then run
 
 `gulp`
 
